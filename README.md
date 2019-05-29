@@ -15,4 +15,5 @@
 - public static NumComplejo multiplicarComplejos (NumComplejo c1, NumComplejo c2)
 - public  static NumComplejo dividirComplejos (NumComplejo c1, NumComplejo c2)
 
-![Pincha para ver una captura del método Main](https://imgur.com/a/aQSevug.png)
+![Captura pantalla método main](https://i.imgur.com/sPj0UZP.png "Captura del método Main")  
+![Captura pantalla ejecución](https://i.imgur.com/P1WG9t9.png "Captura de la ejecución del programa")
